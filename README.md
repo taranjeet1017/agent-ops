@@ -8,6 +8,12 @@ A short browser-based simulation exploring how delivery and program leaders may 
 
 ---
 
+## Preview
+
+![Agent Ops Screenshot](docs/agent-ops-preview.png)
+
+---
+
 ## Executive Summary
 
 Agent Ops is a hands-on experiment in AI-assisted software development and AI-enabled delivery thinking.
